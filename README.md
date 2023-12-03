@@ -1,15 +1,22 @@
 
 
 ### 👋 Olá, Mundo! 
-- Sou desenvolvedor back-end que adora tecnologia. 
+- Sou desenvolvedor back-end que adora tecnologia, possuo especialização em Desenvolvimento de Software para Web.
 - Tenho experiência em algumas linguagens e framworks, incluindo ADVPL, Oracle PL/SQL, C# e ASP .Net Core.
+- Contribuir o máximo com projetos nessas áres e continuar aprendendo e crescendo como desenvolvedor.
 
-### 💻 Sobre mim
+### 🌱 Competências 
+- ADVPL/TLPP
+- Oracle Forms
+- Oracle Reports
+- Oracle PL/SQL.
 
-- 🎓 Sou formado em Ciências da Computação pelo e possuo especialização em Desenvolvimento de Software para Web.
-- 🌱 Atualmente, estou aprimorando minhas habilidades em C#, ASP .Net Core, Web API, Angular, Git e Docker.
-- 👯 Estou procurando colaborar em projetos que envolvam essas tecnologias.
-- 🎯 Meu objetivo é contribuir o máximo com projetos nessas áres e continuar aprendendo e crescendo como desenvolvedor.
+### 🎯 Habilidades 
+Atualmente estou procurando contribuir o máximo com projetos em:
+- C# e ASP .Net Core
+- Web API e Angular
+- GitHub
+- Docker
 
 ### 📫 Entre em contato comigo
 - Você pode me encontrar no LinkedIn www.linkedin.com/in/pjoliveira.
