@@ -14,7 +14,7 @@
 ### 🎯 Habilidades 
 Atualmente estou procurando contribuir o máximo com projetos em:
 - C# e ASP .Net Core
-- Web API e Angular
+- Web API 
 - GitHub
 - Docker
 
